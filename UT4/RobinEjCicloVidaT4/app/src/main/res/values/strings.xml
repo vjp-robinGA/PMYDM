@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RobinEjCicloVidaT4</string>
+    <string name="texto_inicial">Bienvenido a CicloDeVidaApp</string>
+    <string name="texto_onstart">La aplicacion esta visible</string>
+    <string name="texto_onrestart">La aplicacion se ha reiniciado</string>
+    <string name="texto_onresume">La aplicacion esta activa</string>
+    <string name="texto_onpause">La aplicacion esta en pausa</string>
+    <string name="texto_onstop">La aplicacion se ha detenido</string>
+    <string name="texto_ondestroy">La aplicacion sse ha destruido</string>
+</resources>
