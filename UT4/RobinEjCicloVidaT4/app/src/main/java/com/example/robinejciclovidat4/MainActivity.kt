@@ -24,45 +24,45 @@ class MainActivity : AppCompatActivity() {
     override fun onStart() {
         super.onStart()
 
-        val msg = resources.getString(R.string.texto_inicial)
+        val msg = resources.getString(R.string.texto_onstart)
 
-        Log.d(TAG, msg)
+        Log.d("TAG", msg)
 
     }
 
     override fun onRestart() {
         super.onRestart()
 
-        val msg = resources.getString(R.string.texto_inicial)
+        val msg = resources.getString(R.string.texto_onrestart)
 
-        Log.d("btag", msg)
+        Log.d("TAG", msg)
 
     }
 
     override fun onResume() {
         super.onResume()
 
-        val msg = resources.getString(R.string.texto_inicial)
+        val msg = resources.getString(R.string.texto_onresume)
 
-        Log.d(TAG, msg)
+        Log.d("TAG", msg)
 
     }
 
     override fun onPause() {
         super.onPause()
 
-        val msg = resources.getString(R.string.texto_inicial)
+        val msg = resources.getString(R.string.texto_onpause)
 
-        Log.d(TAG, msg)
+        Log.d("TAG", msg)
 
     }
 
     override fun onStop() {
         super.onStop()
 
-        val msg = resources.getString(R.string.texto_inicial)
+        val msg = resources.getString(R.string.texto_onstop)
 
-        Log.d(TAG, msg)
+        Log.d("TAG", msg)
 
     }
 
@@ -71,7 +71,7 @@ class MainActivity : AppCompatActivity() {
 
         val msg = resources.getString(R.string.texto_ondestroy)
 
-        Log.d(TAG, msg)
+        Log.d("TAG", msg)
 
     }
 
