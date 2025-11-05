@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_perro">
+
+    <fragment
+        android:id="@+id/nav_perro"
+        android:name="com.example.robin_ej5_navdrawers.ui.home.PerroFragment"
+        android:label="@string/menu_perro"
+        tools:layout="@layout/fragment_perro" />
+
+    <fragment
+        android:id="@+id/nav_gato"
+        android:name="com.example.robin_ej5_navdrawers.ui.gallery.GatoFragment"
+        android:label="@string/menu_gato"
+        tools:layout="@layout/fragment_gato" />
+
+    <fragment
+        android:id="@+id/nav_leon"
+        android:name="com.example.robin_ej5_navdrawers.ui.slideshow.LeonFragment"
+        android:label="@string/menu_leon"
+        tools:layout="@layout/fragment_leon" />
+</navigation>
