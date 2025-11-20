@@ -1,0 +1,8 @@
+<resources>
+    <string name="NombreTextView">Nombre:</string>
+    <string name="TextInput">Introduce un nombre.</string>
+    <string name="BtnBorrar">Borrar</string>
+    <string name="BtnInsertar">Insertar</string>
+    <string name="BtnSortear">Sortear</string>
+    <string name="ganadorTextView">El ganador es...</string>
+</resources>
