@@ -1,0 +1,46 @@
+{
+  "videojuegos": [
+    {
+      "id": 1,
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "genero": "Aventura",
+      "anio": 2017,
+      "plataforma": "Nintendo Switch"
+    },
+    {
+      "id": 2,
+      "titulo": "God of War Ragnarok",
+      "genero": "Acción",
+      "anio": 2022,
+      "plataforma": "PlayStation 5"
+    },
+    {
+      "id": 3,
+      "titulo": "Elden Ring",
+      "genero": "RPG",
+      "anio": 2022,
+      "plataforma": "Multiplataforma"
+    },
+    {
+      "id": 4,
+      "titulo": "Hollow Knight",
+      "genero": "Metroidvania",
+      "anio": 2017,
+      "plataforma": "Multiplataforma"
+    },
+    {
+      "id": 5,
+      "titulo": "Cyberpunk 2077",
+      "genero": "RPG",
+      "anio": 2020,
+      "plataforma": "Multiplataforma"
+    },
+    {
+      "id": 6,
+      "titulo": "Limbus Company",
+      "genero": "Gacha",
+      "anio": 2020,
+      "plataforma": "Multiplataforma"
+    }
+  ]
+}
