@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="productos">
+        <item>Elige un producto</item>
+        <item>Chorizo Iberico</item>
+        <item>Salchichon</item>
+        <item>Jamon Serrano</item>
+    </string-array>
+</resources>
